@@ -7,6 +7,7 @@
 //
 
 #import "Mob_ViewController.h"
+#import <MobDevLib/MOBNetworking.h>
 
 @interface Mob_ViewController ()
 
