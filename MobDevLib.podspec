@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-#  s.description      = <<-DESC
+  s.description      = <<-DESC
 网络、多线程、UI、第三方框架
                        DESC
 
